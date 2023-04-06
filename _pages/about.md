@@ -12,8 +12,8 @@ Experienced in synthesizing and characterizing novel inorganic materials with un
 
 ## Curent Research Interest
 
-*Crystal growth and polycrystalline inorganic materials synthesis.
-*Crystal structure characterization.
-*Low temperature electronic and thermal transport properties measurements.
-*DFT electronic structure calculations.
-*Python, Mathematica, Mathcad, MATLAB, MS.
+* Crystal growth and polycrystalline inorganic materials synthesis.
+* Crystal structure characterization.
+* Low temperature electronic and thermal transport properties measurements.
+* DFT electronic structure calculations.
+* Python, Mathematica, Mathcad, MATLAB, MS.
